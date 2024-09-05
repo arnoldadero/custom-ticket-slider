@@ -4,6 +4,7 @@ Plugin Name: Custom Ticket Slider
 Description: Adds a price slider for ticket pricing in Mage EventPress.
 Version: 1.01
 Author: Arnold Adero
+Author URI: https://github.com/arnoldadero
 */
 
 // Prevent direct access
